@@ -3,6 +3,8 @@
 Created on Sat Aug 29 11:46:30 2020
 
 @author: 15025
+
+Get the input from entry, and pass parameters to command of button by using lambda function.
 """
 
 import tkinter as tk
