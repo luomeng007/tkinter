@@ -10,7 +10,7 @@ class Gui:
         def buttonClick():
             tkinter.messagebox.showinfo("Hallo, welcome to my World!")
         
-        # 创建窗体
+        # create a window
         window = tkinter.Tk()
         
         # creat a interface 400*300 resolution, width:400,height:300,the horizontal position 400, the vertical position 200
