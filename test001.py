@@ -23,8 +23,8 @@ class Gui:
         # pacl the label we created before
         label.pack()
         
-        # creat a button
-        btn = tkinter.Button(window, text="Surprise",command=buttonClick)
+        # creat a button, text "Surprise" is red and the background is blue
+        btn = tkinter.Button(window, text="Surprise",command=buttonClick, fg="red", bg="blue")
         btn.pack()
         
         # strat mainloop
