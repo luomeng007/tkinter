@@ -3,6 +3,8 @@
 Created on Thu Oct  8 09:56:28 2020
 
 @author: 15025
+
+delete lable widget of tkinter
 """
 
 import tkinter as tk
