@@ -38,6 +38,7 @@ class DeleteWidget:
         
         tk.Button(self.tk, text="delete label", command=self.delete).place(x=100,y=600)
         
+        
     def delete(self):
         self.label1.place_forget()
         
