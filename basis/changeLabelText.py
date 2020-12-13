@@ -48,6 +48,7 @@ def changeLabel():
     # method 1
     lb2['text'] = 'world!'
     # method 2
+    # configure is same as config
     # lb2.configure(text='world!')
 
 
