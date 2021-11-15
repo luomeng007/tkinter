@@ -7,6 +7,7 @@ time: 2020/12/13 12:46
 software: PyCharm
 
 Description:
+  set icon of MainWindow
 """
 from tkinter import *
 
