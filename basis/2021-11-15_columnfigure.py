@@ -7,7 +7,7 @@ software: PyCharm
 Description:
     container.columnconfigure(index, weight)：设定tk窗口grid列布局时的命令
         index：列的index值
-        weight: 权重，当前列的尺寸值，相对于其他列的大小
+        weight: 权重，当前列的宽度尺寸值，相对于其他列宽度的大小
     container.rowconfigure(index, weight)：设定tk窗口grid行布局时的命令
         参数用法同container.columnconfigure(index, weight)
 """
